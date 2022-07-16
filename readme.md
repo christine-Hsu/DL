@@ -1,1 +1,1 @@
-my learning code of deep learning
+my code about deep learning
